@@ -1,0 +1,11 @@
+h1{
+    font-size:50px;
+    border-style:dotted;
+    text-shadow: 3px 5px 5px;
+}
+#odd{
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size:medium;
+   display:flexbox;
+}
